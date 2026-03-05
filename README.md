@@ -2,9 +2,9 @@
 <h1>Olá! Eu sou o <a href="https://github.com/Defcon27">Paulo</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 ### 📬 Onde me encontrar
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Defcon27/) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-martins-batista-9989b42b6//)](https://www.linkedin.com/in/paulo-martins-batista-9989b42b6/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.paullo.martins@live.com)](mailto:defcon.paullo.martins@live.com)
+[![Github Badge](https://github.com/Paulo-Martins-Batista)](https://github.com/Defcon27/) 
+[![Linkedin Badge](https://www.linkedin.com/in/paulo-martins-batista-9989b42b6/)](https://www.linkedin.com/in/paulo-martins-batista-9989b42b6/)
+[![E-mail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.paullo.martins@live.com)](mailto:defcon.paullo.martins@live.com)
 
 
 ---
@@ -12,8 +12,7 @@
 ### Um pouco sobre mim... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 Sou aluno de desenvolvimento de sistema, apaixonado por tecnologia, com foco no ensino de Computação e Lógica de Programação.
-Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender, aplicar e ensinar novas ferramentas e conceitos de forma simples e acessível.
-Adoro criar materiais didáticos, projetos práticos e soluções educacionais que tenham propósito e impacto real na aprendizagem dos alunos.
+Sou uma entusiasta de tecnologia 💻 😃, sempre em busca de aprender e aplicar  novas ferramentas e conceitos de forma simples e acessível.
 
 ---
 
@@ -22,14 +21,10 @@ Adoro criar materiais didáticos, projetos práticos e soluções educacionais q
 - 🔭 Atualmente sou aluno do curso de Desenvolvimento de sistemas, apaixonado em  Tecnologia, Lógica de Programação e Computação.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Gosto de trabalhar com:
   - 🧠 Lógica de Programação (principalmente com Python)
-  - 📊 Projetos simples de dados e introdução ao BI
+  - 📊 Aplicando em Projetos todo o aprendizado.
   - 🧩 Atividades práticas, desafios e jogos de lógica
-  - 🎓 Metodologias ativas e projetos educacionais
-- 📝 Crio materiais didáticos, atividades práticas e projetos voltados para facilitar a aprendizagem
-- 👯 Tenho interesse em colaborar em projetos educacionais, especialmente voltados ao ensino de programação e tecnologia
 - 💬 Pergunte-me sobre Python, Algoritmos, GitHub, Portfólio, Lógica de Programação e Educação Tecnológica
 - 📙Confira meu portfólio/currículo (https://www.linkedin.com/in/paulo-martins-batista-9989b42b6/)
-- 🎉 Curiosidade: Amo ❤️ Astrofísica e a SpaceX 🚀 e assisto muitos filmes de Ficção Científica 🎬
 
 ---
 
